@@ -161,6 +161,3 @@ Price: $${currentPrice.toFixed(4)}`;
 }
 
 // Start the bot
-
-
-startPolling();
